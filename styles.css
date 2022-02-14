@@ -6,10 +6,6 @@ aside {
     max-height: 120px;
 }
 
-.imgLink {
-     max-width: 50px; max-height: 50px;
-}
-
 article > img {
     float: left;
 }
