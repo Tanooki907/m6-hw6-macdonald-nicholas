@@ -6,6 +6,11 @@ aside {
     max-height: 120px;
 }
 
+div {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 article > img {
     float: left;
 }
