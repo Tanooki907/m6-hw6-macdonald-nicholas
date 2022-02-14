@@ -2,6 +2,10 @@ header, article, nav, aside {
     background-color: white;
 }
 
+aside {
+    max-height: 120px;
+}
+
 article > img {
     float: left;
 }
