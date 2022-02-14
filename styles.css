@@ -36,6 +36,7 @@ footer {
     gap: 1000px;
     justify-content: space-between;
     align-items: center;
+    align-self:center;
     max-height: 50px;
     margin: 25px;
 }
@@ -45,6 +46,7 @@ footer {
     gap: 340px;
     justify-content: space-between;
     align-content: center;
+    align-self: center;
 }
 
 #item1 {
