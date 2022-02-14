@@ -4,6 +4,7 @@ header, article, nav, aside {
 
 aside {
     max-height: 120px;
+    width: 200px;
 }
 
 div {
