@@ -4,7 +4,7 @@ header, article, nav, aside {
 
 aside {
     max-height: 120px;
-    width: 200px;
+    width: 15936px;
 }
 
 div {
@@ -39,7 +39,6 @@ footer {
 
 #container1 {
     display: flex;
-    gap: 1000px;
     justify-content: space-between;
     align-items: center;
     align-self:center;
